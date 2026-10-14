@@ -47,6 +47,11 @@ binwalk -Me fw.bin  -> 提取出 rootfs ->  fw-diff scan rootfs -o v1.json
 
 适合：固件版本对比、设备升级前后取证、判定补丁是否真的修了你报的洞。
 
+## 侦察套件
+
+- [fake200](https://github.com/wdfdsyhb/fake200) — 识别 WAF 假 200/软 404，别让拦截页污染扫描结果
+- [scan-diff](https://github.com/wdfdsyhb/scan-diff) — 侦察清单快照 diff，盯新资产
+
 ## License
 
 MIT
