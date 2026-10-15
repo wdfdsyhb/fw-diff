@@ -1,5 +1,7 @@
 # fw-diff
 
+[![CI](https://github.com/wdfdsyhb/fw-diff/actions/workflows/tests.yml/badge.svg)](https://github.com/wdfdsyhb/fw-diff/actions/workflows/tests.yml)
+
 **Snapshot & diff unpacked firmware rootfs trees.** 看清一次固件升级到底改了什么——或者厂商悄悄塞了什么。
 
 ## Why
